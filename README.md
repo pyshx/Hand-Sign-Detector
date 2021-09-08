@@ -33,3 +33,5 @@ This repo contains the code and dataset used to train a hand sign detector using
 - See the model in action by executing,
 
       python camera.py
+      
+## License - MIT
